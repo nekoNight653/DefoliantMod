@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "defoliant:item/lawn_stick"
+  }
+}
